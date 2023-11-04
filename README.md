@@ -1,0 +1,2 @@
+# numSpiral
+Created with CodeSandbox
